@@ -11,9 +11,9 @@
 
 ### 🌱 I’m currently learning ...
 - C# .NET CORE
-- React18, NextJS, Typescript
+- React, NextJS, Typescript
 - Python, Django
-- MySQL, RepoDB
+- MariaDB, AWS
 
 <!--
 **han-jojo/han-jojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
