@@ -7,11 +7,13 @@
 </div>  
   
 ### 🔭 I’m currently working on ...
--  Web Developer
+-  Web Developer with  
+  back-end : `C# .NET CORE`,  
+  front-end : `React.JS for front-end`  
 
 ### 🌱 I’m currently learning ...
-- C# .NET CORE
-- React, NextJS, Typescript
+- Typescript
+- NextJS
 - Python, Django
 - MariaDB, AWS
 
