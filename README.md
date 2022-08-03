@@ -8,8 +8,8 @@
   
 ### 🔭 I’m currently working on ...
 -  Web Developer with  
-  back-end : `C# .NET CORE`,  
-  front-end : `React.JS for front-end`  
+  back-end : `C# .NET CORE`  
+  front-end : `React.JS`  
 
 ### 🌱 I’m currently learning ...
 - Typescript
