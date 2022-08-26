@@ -9,12 +9,12 @@
  
 </div>  
   
-### 🔭 I’m currently working on ...
+### 💻 I’m currently working on ...
 -  Web Developer with  
   back-end : `C# .NET CORE`  
   front-end : `React.JS`  
 
-### 🌱 I’m currently learning ...
+### 📌 I’m currently learning ...
 - Typescript
 - NextJS
 - Python, Django
