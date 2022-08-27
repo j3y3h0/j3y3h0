@@ -8,11 +8,13 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j3y3h0&layout=compact&hide=HTML,CSS,SCSS,PUG)
  
 </div>  
-  
+
 ### 💻 I’m currently working on ...
--  Web Developer with  
-  back-end : `C# .NET CORE`  
-  front-end : `React.JS`  
+ - 스포츠투아이 & 비글즈에서 웹 개발, API 개발 및 유지보수를 하고있습니다.
+  
+### 🔧 My skill is ...
+ - back-end : `C# .NET CORE`  
+ - front-end : `React`  
 
 ### 📌 I’m currently learning ...
 - Typescript
