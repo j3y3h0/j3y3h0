@@ -13,7 +13,7 @@
  - 스포츠투아이 & 비글즈에서 웹 개발, API 개발 및 유지보수를 하고있습니다.
   
 ### 🔧 My skill is ...
- - back-end : `C# .NET CORE`  
+ - back-end : `C# ASP.NET CORE`  
  - front-end : `React`  
 
 ### 📌 I’m currently learning ...
