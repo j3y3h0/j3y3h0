@@ -10,7 +10,9 @@
 </div>  
 
 ### 💻 I’m currently working on ...
- - [스포츠투아이](https://www.sports2i.com/default.aspx) & [비글즈](http://bigglz.com)에서 웹 개발, API 개발 및 유지보수를 하고있습니다.
+   
+ - <a href="https://www.sports2i.com/default.aspx" target="_blank">스포츠투아이</a> & 
+ <a href="http://bigglz.com" target="_blank">비글즈</a> 에서 웹 개발, API 개발 및 유지보수를 하고있습니다.  
   
 ### 🔧 My skill is ...
  - back-end : `C# ASP.NET CORE, MS-SQL`
@@ -35,4 +37,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ - [스포츠투아이](https://www.sports2i.com/default.aspx) & [비글즈](http://bigglz.com) 에서 웹 개발, API 개발 및 유지보수를 하고있습니다.  
 -->
