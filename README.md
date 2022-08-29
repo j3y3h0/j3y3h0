@@ -10,7 +10,7 @@
 </div>  
 
 ### 💻 I’m currently working on ...
- - 스포츠투아이 & 비글즈에서 웹 개발, API 개발 및 유지보수를 하고있습니다.
+ - [스포츠투아이](https://www.sports2i.com/default.aspx) & [비글즈](http://bigglz.com)에서 웹 개발, API 개발 및 유지보수를 하고있습니다.
   
 ### 🔧 My skill is ...
  - back-end : `C# ASP.NET CORE, MS-SQL`
