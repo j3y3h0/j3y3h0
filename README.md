@@ -15,7 +15,7 @@
  <a href="http://bigglz.com" target="_blank">비글즈</a> 에서 웹 개발, API 개발 및 유지보수를 하고있습니다.  
   
 ### 🔧 My skill is ...
- - back-end : `C# ASP.NET CORE, MS-SQL`
+ - back-end : `C# ASP.NET CORE, MS-SQL, MySQL`
  - front-end : `React`
 
 ### 📌 I’m currently learning ...
