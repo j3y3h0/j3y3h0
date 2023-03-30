@@ -11,18 +11,16 @@
 
 ### 💻 I’m currently working on ...
    
- - <a href="https://www.sports2i.com/default.aspx" target="_blank">스포츠투아이</a> & 
- <a href="http://bigglz.com" target="_blank">비글즈</a> 에서 웹 개발, API 개발 및 유지보수를 하고있습니다.  
+ - <a href="https://www.sports2i.com/default.aspx" target="_blank">스포츠투아이</a>에서 백엔드 웹 API 개발 및 유지보수를 하고있습니다.  
   
 ### 🔧 My skill is ...
- - back-end : `C# ASP.NET CORE, MS-SQL, MySQL`
+ - back-end : `C# ASP.NET CORE, Node.js, MS-SQL, MySQL`
  - front-end : `React`
 
 ### 📌 I’m currently learning ...
 - Typescript
-- NextJS
 - Python, Django
-- MariaDB, AWS
+- AWS, NCP
 
 <!--
 **j3y3h0/j3y3h0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
