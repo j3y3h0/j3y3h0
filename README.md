@@ -18,7 +18,7 @@
 #### Backend
 <div>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=C%20Sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20CORE-5C2D91?style=flat&logo=.NET&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20-5C2D91?style=flat&logo=.NET&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=CoffeeScript&logoColor=white" />
