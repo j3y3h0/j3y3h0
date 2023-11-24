@@ -11,7 +11,7 @@
 
 ### 💻 I’m currently working on ...
    
- - <a href="https://www.sports2i.com/default.aspx" target="_blank">스포츠투아이</a>에서 백엔드 웹 API, 응용프로그램 서비스 개발을 하고있습니다.  
+ - <a href="https://www.sports2i.com/default.aspx" target="_blank">스포츠투아이</a>에서 풀스택 웹, 응용프로그램 서비스 개발을 담당하고있습니다.  
   
 ### 🔧 My skill is ...
 
