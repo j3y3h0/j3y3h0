@@ -11,7 +11,9 @@
 
 ### 💻 I’m currently working on ...
    
- - <a href="https://www.sports2i.com/default.aspx" target="_blank">스포츠투아이</a>에서 풀스택 웹, 응용프로그램 서비스 개발을 담당하고있습니다.  
+ - 스포츠 데이터 전문 서비스 업체 <a href="https://www.sports2i.com/default.aspx" target="_blank">스포츠투아이</a>에서
+   <br/>
+   웹, API, 응용프로그램, 배치 서비스, 백그라운드 서비스 개발을 담당하고있습니다. (2021.06 ~)
   
 ### 🔧 My skill is ...
 
@@ -20,21 +22,29 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=C%20Sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20-5C2D91?style=flat&logo=.NET&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=CoffeeScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring&logoColor=white" />
 </div>
 
-#### DB
+#### DB & ORM
  <div>
-  <img src="https://img.shields.io/badge/MS--SQL-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLServer-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/EntityFramework-512BD4?style=flat&logo=.NET&logoColor=white" />
+  <img src="https://img.shields.io/badge/RepoDB-00AFA3?style=flat" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white" />
  </div>
  
 #### Front
  <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white" />
  </div>
@@ -43,6 +53,11 @@
  <div>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white" />
   <img src="https://img.shields.io/badge/NCP-brightgreen?style=flat&logo=Naver&logoColor=white" />
+  <img src="https://img.shields.io/badge/IIS%20Express-5C2D91?style=flat&logo=Microsoft&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
  </div>
 
 
