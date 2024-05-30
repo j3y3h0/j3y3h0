@@ -13,7 +13,8 @@
    
  - 스포츠 데이터 전문 서비스 업체 <a href="https://www.sports2i.com/default.aspx" target="_blank">스포츠투아이</a>에서
    <br/>
-   API 서버, 프론트엔드 웹,응용프로그램, 배치 서비스, 백그라운드 서비스 개발을 담당하고있습니다. (2021.06 ~)
+   API 서버, 프론트엔드 웹, 백그라운드 서비스 개발, DB 구축과 SQL, SP 쿼리 작성과 개발성능 분석을 하고있습니다. (2021.06 ~)
+ - `70%`의 백엔드, `15%`의 프론트엔드, `15%`의 DevOps (?)
   
 ### 🔧 My skill is ...
 
@@ -25,8 +26,6 @@
   <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=CoffeeScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring&logoColor=white" />
 </div>
 
 #### DB & ORM
