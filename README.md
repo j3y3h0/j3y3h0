@@ -9,6 +9,12 @@
  
 </div>  
 
+### 🚀 About Me
+
+안녕하세요. 자동화를 즐기고, 원활한 커뮤니케이션을 바탕으로 성장하는 개발자 j3y3h0입니다.  
+데이터 서비스 플랫폼과 백엔드 시스템 개발을 주로 담당하며, 효율적인 데이터 처리와 성능 최적화에 관심이 많습니다.  
+끊임없는 개선과 도전을 통해 개발 경험을 확장하고, 더 나은 서비스를 만드는 것이 저의 목표입니다.  
+
 ### 💻 I’m currently working on ...
    
  - 스포츠 데이터 전문 서비스 업체 <a href="https://www.sports2i.com/default.aspx" target="_blank">스포츠투아이</a>에서
@@ -79,5 +85,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- - [스포츠투아이](https://www.sports2i.com/default.aspx) & [비글즈](http://bigglz.com) 에서 웹 개발, API 개발 및 유지보수를 하고있습니다.  
+ - [스포츠투아이](https://www.sports2i.com/default.aspx) 에서 웹 개발, API 개발 및 유지보수를 하고있습니다.  
 -->
